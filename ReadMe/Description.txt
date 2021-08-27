@@ -1,0 +1,1 @@
+This robot was built and programmed using an Arduino Uno R3 and it capable of avoiding obstacles and clearing a maze.
